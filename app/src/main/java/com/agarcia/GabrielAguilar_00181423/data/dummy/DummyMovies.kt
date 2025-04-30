@@ -93,8 +93,8 @@ val dummyRestaurants = listOf(
     name = "Sweets & Treats",
     description = "Especialistas en postres.",
     category = "Postres",
-    backdropUrl = "https://i.pinimg.com/736x/17/2f/cc/172fcc6c37fa371017fcd0532c60339a.jpg",
-    imageUrl = "https://i.pinimg.com/736x/17/2f/cc/172fcc6c37fa371017fcd0532c60339a.jpg",
+    backdropUrl = "https://marketplace.canva.com/EAFr-QQ1nGI/2/0/1600w/canva-logo-reposter%C3%ADa-y-postres-artesanales-ilustrativo-marron-2OBBjLBBqzs.jpg",
+    imageUrl = "https://marketplace.canva.com/EAFr-QQ1nGI/2/0/1600w/canva-logo-reposter%C3%ADa-y-postres-artesanales-ilustrativo-marron-2OBBjLBBqzs.jpg",
     menu = listOf(
       MenuItem(3, "flan", "Salsa de carne y tomate", "https://www.paulinacocina.net/wp-content/uploads/2024/01/receta-de-postre-de-maracuya-Paulina-Cocina-Recetas-1722251880-1200x676.jpg"),
       MenuItem(4, "flan de chocolate", "Capas de pasta, carne y queso", "https://www.johaprato.com/files/styles/flexslider_full/public/budino_cioccolato_cocco2.png?itok=xaX42jAn")
@@ -105,8 +105,8 @@ val dummyRestaurants = listOf(
     name = "Tabernon",
     description = "Especialistas en bebidas.",
     category = "Bebidas",
-    backdropUrl = "https://marketplace.canva.com/EAFr-QQ1nGI/2/0/1600w/canva-logo-reposter%C3%ADa-y-postres-artesanales-ilustrativo-marron-2OBBjLBBqzs.jpg",
-    imageUrl = "https://marketplace.canva.com/EAFr-QQ1nGI/2/0/1600w/canva-logo-reposter%C3%ADa-y-postres-artesanales-ilustrativo-marron-2OBBjLBBqzs.jpg",
+    backdropUrl = "https://us.123rf.com/450wm/aquir/aquir2307/aquir230701114/208366552-cerveza-ilustraci%C3%B3n-c%C3%B3mica-dibujada-a-mano-de-cerveza-ilustraci%C3%B3n-de-dibujos-animados-de-estilo-de.jpg",
+    imageUrl = "https://us.123rf.com/450wm/aquir/aquir2307/aquir230701114/208366552-cerveza-ilustraci%C3%B3n-c%C3%B3mica-dibujada-a-mano-de-cerveza-ilustraci%C3%B3n-de-dibujos-animados-de-estilo-de.jpg",
     menu = listOf(
       MenuItem(3, "Spaghetti Bolognese", "Salsa de carne y tomate", "https://i.pinimg.com/736x/17/2f/cc/172fcc6c37fa371017fcd0532c60339a.jpg"),
       MenuItem(4, "Lasagna Clásica", "Capas de pasta, carne y queso", "https://i.pinimg.com/736x/17/2f/cc/172fcc6c37fa371017fcd0532c60339a.jpg")
