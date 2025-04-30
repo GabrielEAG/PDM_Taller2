@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-  namespace = "com.agarcia.myfirstandroidapp"
+  namespace = "com.agarcia.GabrielAguilar_00181423"
   compileSdk = 35
 
   defaultConfig {
-    applicationId = "com.agarcia.myfirstandroidapp"
+    applicationId = "com.agarcia.GabrielAguilar_00181423"
     minSdk = 24
     targetSdk = 35
     versionCode = 1
