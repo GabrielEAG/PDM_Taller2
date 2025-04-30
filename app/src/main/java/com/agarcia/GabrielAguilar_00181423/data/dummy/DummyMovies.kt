@@ -81,11 +81,11 @@ val dummyRestaurants = listOf(
     name = "Go Verde",
     description = "Especialistas en cocina saludable.",
     category = "Comida Saludable",
-    backdropUrl = "https://i.pinimg.com/736x/17/2f/cc/172fcc6c37fa371017fcd0532c60339a.jpg",
-    imageUrl = "https://i.pinimg.com/736x/17/2f/cc/172fcc6c37fa371017fcd0532c60339a.jpg",
+    backdropUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0hlU-rmkCwG5MAulUFdXO2uckUa4Dxwhovw&s",
+    imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0hlU-rmkCwG5MAulUFdXO2uckUa4Dxwhovw&s",
     menu = listOf(
-      MenuItem(3, "Spaghetti Bolognese", "Salsa de carne y tomate", "https://i.pinimg.com/736x/17/2f/cc/172fcc6c37fa371017fcd0532c60339a.jpg"),
-      MenuItem(4, "Lasagna Clásica", "Capas de pasta, carne y queso", "https://i.pinimg.com/736x/17/2f/cc/172fcc6c37fa371017fcd0532c60339a.jpg")
+      MenuItem(3, "Spaghetti Bolognese", "Salsa de carne y tomate", "https://loveveg.mx/app/uploads/2022/04/2600-ensalada-de-garbanzojunio-scaled-e1650310851479-1024x884.jpg"),
+      MenuItem(4, "Lasagna Clásica", "Capas de pasta, carne y queso", "https://www.recetasnestle.com.mx/sites/default/files/inline-images/crepes-espinacas-champinones-receta-verduras-verdes.jpg")
     )
   ),
   Restaurant(
@@ -96,8 +96,8 @@ val dummyRestaurants = listOf(
     backdropUrl = "https://i.pinimg.com/736x/17/2f/cc/172fcc6c37fa371017fcd0532c60339a.jpg",
     imageUrl = "https://i.pinimg.com/736x/17/2f/cc/172fcc6c37fa371017fcd0532c60339a.jpg",
     menu = listOf(
-      MenuItem(3, "Spaghetti Bolognese", "Salsa de carne y tomate", "https://i.pinimg.com/736x/17/2f/cc/172fcc6c37fa371017fcd0532c60339a.jpg"),
-      MenuItem(4, "Lasagna Clásica", "Capas de pasta, carne y queso", "https://i.pinimg.com/736x/17/2f/cc/172fcc6c37fa371017fcd0532c60339a.jpg")
+      MenuItem(3, "flan", "Salsa de carne y tomate", "https://www.paulinacocina.net/wp-content/uploads/2024/01/receta-de-postre-de-maracuya-Paulina-Cocina-Recetas-1722251880-1200x676.jpg"),
+      MenuItem(4, "flan de chocolate", "Capas de pasta, carne y queso", "https://www.johaprato.com/files/styles/flexslider_full/public/budino_cioccolato_cocco2.png?itok=xaX42jAn")
     )
   ),
   Restaurant(
@@ -105,8 +105,8 @@ val dummyRestaurants = listOf(
     name = "Tabernon",
     description = "Especialistas en bebidas.",
     category = "Bebidas",
-    backdropUrl = "https://i.pinimg.com/736x/17/2f/cc/172fcc6c37fa371017fcd0532c60339a.jpg",
-    imageUrl = "https://i.pinimg.com/736x/17/2f/cc/172fcc6c37fa371017fcd0532c60339a.jpg",
+    backdropUrl = "https://marketplace.canva.com/EAFr-QQ1nGI/2/0/1600w/canva-logo-reposter%C3%ADa-y-postres-artesanales-ilustrativo-marron-2OBBjLBBqzs.jpg",
+    imageUrl = "https://marketplace.canva.com/EAFr-QQ1nGI/2/0/1600w/canva-logo-reposter%C3%ADa-y-postres-artesanales-ilustrativo-marron-2OBBjLBBqzs.jpg",
     menu = listOf(
       MenuItem(3, "Spaghetti Bolognese", "Salsa de carne y tomate", "https://i.pinimg.com/736x/17/2f/cc/172fcc6c37fa371017fcd0532c60339a.jpg"),
       MenuItem(4, "Lasagna Clásica", "Capas de pasta, carne y queso", "https://i.pinimg.com/736x/17/2f/cc/172fcc6c37fa371017fcd0532c60339a.jpg")
